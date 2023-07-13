@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/HoloKit Unity SDK/0.3.1/Stereoscopic Rendering/Scenes/StereoscopicRendering.unity
+    guid: 9034993a8ad8343989ffd04d6bf84577
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 33f2dade8f8c049908aecbb05e78d1d0, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7a7ee6eeddfe94853b34cdd134d16796, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 03956999add0f45ed8a2d2effb47e4d1, type: 2}
